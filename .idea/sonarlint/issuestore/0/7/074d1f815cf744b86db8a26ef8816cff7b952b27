@@ -1,0 +1,11 @@
+
+Fsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8À˜¡´ã-
+esquid:HiddenFieldCheck"7Rename "url" which hides the field declared at line 14.(±€Ğÿÿÿÿÿ8ŸÇ›´ã-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(¨•¯¾8ĞêÄ´ã-
+Ksquid:S1481"(Remove this unused "url" local variable.(±€Ğÿÿÿÿÿ8¡Á´ã-
+Fsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8À˜¡´ã-
+gsquid:UselessImportCheck"=Remove this unused import 'javax.net.ssl.HttpsURLConnection'.(æÎº08¡Á´ã-
+esquid:S2095"GUse try-with-resources or close this "WebClient" in a "finally" clause.(µ­¿ã8á‡À´ã-
+xsquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(İóğl8ù½—´ã-
+Zsquid:S1854"7Remove this useless assignment to local variable "url".(±€Ğÿÿÿÿÿ8¡Á´ã-
